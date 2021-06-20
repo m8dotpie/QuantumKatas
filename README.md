@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/m8dotpie/QuantumKatas/main)
 # Introduction
 
 The Quantum Katas are a collection of self-paced tutorials and programming exercises to help you learn quantum computing and Q# programming.
